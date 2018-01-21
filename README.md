@@ -96,3 +96,5 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | National Software Reference Library (NSRL) | - | `apiKey` | Yes | [Link!](https://github.com/bsi-group/nsrls) |?|
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
+| Web Of Trust Keys | PGP Key dumping | `` | Yes | [Link!](https://bitbucket.org/skskeyserver/sks-keyserver/wiki/KeydumpSources) |free|
+| Web Of Trust Parsing | PGP Key parsing | `` | Yes | [Link!](https://github.com/hannob/pgpecosystem) |free|
